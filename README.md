@@ -1,4 +1,4 @@
-# SocialCRON-Python-API
+# SocialCRON-Python-API [DEPRECATED SINCE 4th July 2017]
 A Python wrapper to manipulate SocialCRON RESTFul API. 
 
 ## Summary
